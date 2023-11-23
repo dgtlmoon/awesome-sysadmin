@@ -473,6 +473,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Bosun](https://bosun.org/) - Monitoring and alerting system by Stack Exchange. ([Source Code](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 - [Cacti](https://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
+- [changedetection.io](https://changedetection.io) - Website content monitoring and change detection with notifications ([Source Code](https://github.com/dgtlmoon/changedetection.io)) `Apache-2.0` `Python/JS`
 - [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 - [dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 - [EdMon](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
